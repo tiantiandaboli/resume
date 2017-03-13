@@ -207,13 +207,13 @@
   }
   #photo{
     position: absolute;
-	  left:925px;
-	  top:122px;
+	  left:69%;
+	  top:19%;
     border: dashed 1px #a09f9f;
   }
   #logo{
 	  position:absolute;
-	  left:880px;
-	  top:60px;
+	  left:65%;
+	  top:9%;
   }
 
