@@ -1,0 +1,219 @@
+  *{
+    margin: 0;
+    padding: 0;
+    font-family: "微软雅黑";
+  }
+    #main{
+      width: 800px;
+      background: white;
+      box-shadow: 5px 5px 2px #888888;
+      height: 4000px;
+      margin: 0 auto;
+      margin-top: 50px;
+      border: solid 1px #e1dedd;
+      height: 1280px;
+    }
+    #li_first{
+      height: 40px;
+      margin-top: 30px;
+      margin-bottom: 5px;
+      line-height: 40px;
+      font-style: italic;
+      font-weight: 700;
+    }
+    .top1 ul li{
+      width: 190px;
+      height: 30px;
+      background: #adacac;
+      margin-top:2px;
+      list-style-type: none;
+      color: white;
+      text-align: center;
+      line-height: 30px;
+    }
+    #top{
+      float: left;
+    }
+    .top2{
+      float: left;
+
+    }
+    .top2 ul li{
+      list-style-type: none;      
+    }
+    #li_second{
+      height: 40px;
+      margin-top: 30px;
+      margin-bottom: 5px;
+      line-height: 40px;
+      font-weight: 700;
+      width: 565px;
+      border-bottom: dashed 1px #a09f9f;
+    }
+    .top2 ul li{
+      height: 30px;
+      padding-left:15px;
+      margin-top: 2px;
+      color: #4a4949;
+      line-height: 30px;
+    }
+    .top1{
+      float: left;
+    }
+    .grey{
+      background: #eae8e8;
+    }
+  #left{
+    width: 180px;
+    border-right: solid 1px #616161;
+    float: left;
+    height: 1110px;
+  }
+  #left ul li{
+    list-style-type: none;
+    height: 25px;
+    background: #b0afaf;
+    color: #343333;
+  }
+  span{
+    height: 25px;
+    width: 10px;
+    background: #4c4c4c;
+    float: right;
+    position: absolute;
+    left: 450px;
+  }
+  #left1{
+    margin-top: 30px;
+    text-align: right;
+    padding-right: 20px;
+    margin-bottom: 150px;
+  }
+  #tab1{
+    float: left;
+    margin-left: 30px;
+    border-top: solid 2px #bebdbd;
+    font-size: 14px;
+    width: 550px;
+    border-spacing: 10px;
+    color: #343333;
+  }
+  #line{
+    margin-top: 20px;
+    margin-left: 50px;
+    float: left;
+    font-style: italic;
+  }
+  #left2{
+    text-align: right;
+    padding-right: 20px;
+    margin-bottom: 165px;    
+  }
+  #skill{
+    float: left;
+    font-size: 14px;
+    color: #343333;
+    width: 550px;
+    margin: 30px;
+    border-top: solid 2px #bebdbd;
+  }
+  #skill ul li{
+    padding-top: 8px;
+  }
+  code{
+    color: #0080FF;
+  }
+  #left3{
+    text-align: right;
+    padding-right: 20px;
+    margin-bottom: 200px; 
+  }
+  #project{
+    float: left;
+    width: 550px;
+    font-size: 14px;
+    color: #343333;
+    margin-left: 30px;
+  }
+  #pro_title{
+    height: 25px;
+    background: #edebeb;
+    color: #0080FF;
+  }
+  #pro_time{
+    padding-top: 10px;
+    width: 400px;
+  }
+  #pro_person{
+    float: right;
+    width: 80px;
+    position: absolute;
+    left: 960px;
+    top: 650px;
+    color: #0080FF;
+  }
+  #project ul li{
+    padding-top: 8px;
+  }
+  #left4{
+    text-align: right;
+    padding-right: 20px;
+    margin-bottom: 230px; 
+  }
+  #study{
+    float: left;
+    width: 550px;
+    font-size: 14px;
+    color: #343333;
+    margin-left: 30px;
+    margin-top: 20px;
+  }
+  #study ul li{
+    padding-top: 8px;
+  }
+  #left5{
+    text-align: right;
+    padding-right: 20px;
+    margin-bottom: 70px; 
+  }
+  #honor{
+    float: left;
+    width: 550px;
+    font-size: 14px;
+    color: #343333;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-top: solid 2px #bebdbd;
+  }
+  #honor ul li{
+    padding-top: 8px;
+  }
+  #left6{
+    text-align: right;
+    padding-right: 20px;
+    margin-bottom: 70px; 
+  }
+  #other{
+    float: left;
+    width: 550px;
+    font-size: 14px;
+    color: #343333;
+    margin-left: 30px;
+    margin-top: 40px;
+    border-top: solid 2px #bebdbd;    
+  }
+  #buttom{
+    height: 50px;
+  }
+  #photo{
+    position: absolute;
+	  left:925px;
+	  top:122px;
+    border: dashed 1px #a09f9f;
+  }
+  #logo{
+	  position:absolute;
+	  left:880px;
+	  top:60px;
+  }
+
