@@ -12,6 +12,7 @@
       margin-top: 50px;
       border: solid 1px #e1dedd;
       height: 1280px;
+      position: relative;
     }
     #li_first{
       height: 40px;
@@ -81,7 +82,7 @@
     background: #4c4c4c;
     float: right;
     position: absolute;
-    left: 450px;
+    left: 22%;
   }
   #left1{
     margin-top: 30px;
@@ -207,13 +208,13 @@
   }
   #photo{
     position: absolute;
-	  left:69%;
-	  top:19%;
+	  left:81%;
+	  top:5.5%;
     border: dashed 1px #a09f9f;
   }
   #logo{
 	  position:absolute;
-	  left:65%;
-	  top:9%;
+	  left:70%;
+	  top:0.8%;
   }
 
