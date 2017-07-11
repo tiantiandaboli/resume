@@ -108,7 +108,7 @@
   #left2{
     text-align: right;
     padding-right: 20px;
-    margin-bottom: 165px;    
+    margin-bottom: 210px;    
   }
   #skill{
     float: left;
@@ -127,7 +127,7 @@
   #left3{
     text-align: right;
     padding-right: 20px;
-    margin-bottom: 200px; 
+    margin-bottom: 460px; 
   }
   #project{
     float: left;
@@ -150,7 +150,15 @@
     width: 80px;
     position: absolute;
     left: 85%;
-    top: 47%;
+    top: 48%;
+    color: #0080FF;
+  }
+  #pro_person1{
+    float: right;
+    width: 80px;
+    position: absolute;
+    left: 90%;
+    top: 65.7%;
     color: #0080FF;
   }
   #project ul li{
