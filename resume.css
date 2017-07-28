@@ -127,9 +127,10 @@
   #left3{
     text-align: right;
     padding-right: 20px;
-    margin-bottom: 460px; 
+    margin-bottom: 430px; 
   }
   #project{
+    margin-top: 50px;
     float: left;
     width: 550px;
     font-size: 14px;
@@ -158,16 +159,11 @@
     width: 80px;
     position: absolute;
     left: 90%;
-    top: 65.7%;
+    top: 69.5%;
     color: #0080FF;
   }
   #project ul li{
     padding-top: 8px;
-  }
-  #left4{
-    text-align: right;
-    padding-right: 20px;
-    margin-bottom: 230px; 
   }
   #study{
     float: left;
